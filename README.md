@@ -1,2 +1,2 @@
 # ML-group-project
-github told me to add this, so I did
+Hey guys, I've never set up a repo before so if I'm doing anything wrong lmk. 
